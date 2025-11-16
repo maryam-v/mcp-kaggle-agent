@@ -16,9 +16,9 @@ Example query:
 
 ## 🧠 Technologies Used
 
-- [Google ADK](https://github.com/google/adk)  
+- [Google ADK](https://google.github.io/adk-docs/)  
 - [Gemini](https://deepmind.google/technologies/gemini/)  
-- [Kaggle MCP](https://www.kaggle.com/mcp)  
+- [Kaggle MCP](https://www.kaggle.com/docs/mcp)  
 - Python 3.11  
 - Kaggle Notebooks
 
