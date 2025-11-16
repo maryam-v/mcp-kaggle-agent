@@ -1,6 +1,6 @@
 # MCP Kaggle Agent
 
-An intelligent agent for searching Kaggle datasets and competitions powered by [Model Context Protocol (MCP)](https://www.kaggle.com/mcp) and Gemini via Google ADK.
+An intelligent agent for searching Kaggle datasets and competitions powered by [Model Context Protocol (MCP)](https://modelcontextprotocol.io/docs/getting-started/intro) and Gemini via [Google ADK](https://google.github.io/adk-docs/).
 
 ## 🚀 Overview
 
