@@ -38,7 +38,7 @@ Example query:
    Use mcp_kaggle_competition.py for script-based execution
 
 ## 📊 Example Output
-
+```
 [
   {
     "name": "Digit Recognizer (MNIST)",
@@ -59,15 +59,16 @@ Example query:
     "rating": "4.6/5"
   }
 ]
-
+```
 ## 📁 Project Structure
-
+```
 mcp-kaggle-agent/
 ├── mcp_kaggle_competition.ipynb   # Kaggle notebook version
 ├── mcp_kaggle_competition.py      # Script version
 ├── requirements.txt               # Dependencies
 ├── .gitignore                     # Clean repo setup
 └── README.md                      # Project overview
+```
 
 ## 📜 License
 
