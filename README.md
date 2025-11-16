@@ -34,37 +34,37 @@ Example query:
    pip install google-adk
 
 3. **Run the notebook or script**
-   Use mcp_kaggle_competition.ipynb for interactive exploration
-   Use mcp_kaggle_competition.py for script-based execution
+   Use mcp-kaggle-agent.ipynb for interactive exploration
+   Use mcp-kaggle-agent.py for script-based execution
 
 ## 📊 Example Output
 ```
 [
   {
-    "name": "Digit Recognizer (MNIST)",
-    "url": "https://www.kaggle.com/c/digit-recognizer",
-    "description": "Handwritten digit dataset widely used for OCR benchmarks.",
-    "rating": "4.8/5"
+    "name": "standard OCR dataset ",
+    "url": "https://www.kaggle.com/datasets/preatcher/standard-ocr-dataset",
+    "description": "Optical Character Recognition Dataset containing Various Fonts and Style",
+    "rating": 80
   },
   {
-    "name": "IAM Handwriting Dataset",
-    "url": "https://www.kaggle.com/datasets/iam-handwriting",
-    "description": "English handwritten text dataset for OCR beyond digits.",
-    "rating": "4.7/5"
+    "name": "Aida Calculus Math Handwriting Recognition Dataset",
+    "url": "https://www.kaggle.com/datasets/aidapearson/ocr-data",
+    "description": "Synthetic handwritten calculus math expressions for recognition and OCR tasks",
+    "rating": 74
   },
   {
-    "name": "CORD Document OCR",
-    "url": "https://www.kaggle.com/datasets/cord-ocr",
-    "description": "Receipt and document OCR dataset with annotations.",
-    "rating": "4.6/5"
+    "name": "OCR Receipts Text Detection - retail dataset",
+    "url": "https://www.kaggle.com/datasets/trainingdatapro/ocr-receipts-text-detection",
+    "description": "Photos of the receipts and text detection - ocr dataset",
+    "rating": 70
   }
 ]
 ```
 ## 📁 Project Structure
 ```
 mcp-kaggle-agent/
-├── mcp_kaggle_competition.ipynb   # Kaggle notebook version
-├── mcp_kaggle_competition.py      # Script version
+├── mcp-kaggle-agent.ipynb         # Kaggle notebook version
+├── mcp-kaggle-agent.py            # Script version
 ├── requirements.txt               # Dependencies
 ├── .gitignore                     # Clean repo setup
 └── README.md                      # Project overview
