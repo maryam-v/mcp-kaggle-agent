@@ -34,6 +34,7 @@ Example query:
    pip install google-adk
 
 3. **Run the notebook or script**
+
    Use mcp-kaggle-agent.ipynb for interactive exploration.
    
    Use mcp-kaggle-agent.py for script-based execution.
